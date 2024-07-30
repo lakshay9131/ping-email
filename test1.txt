@@ -1,0 +1,757 @@
+[ping-email - INFO]:  Pinging email: deepika.singh@mai.io
+ [ping-email - INFO]:  Verifying syntax of email: deepika.singh@mai.io
+ [ping-email - INFO]:  Verifying disposable domain of email: deepika.singh@mai.io
+ [ping-email - INFO]:  Verifying domain of email: deepika.singh@mai.io
+ [ping-email - INFO]:  Pinging email: ishika@consultbae.com
+ [ping-email - INFO]:  Verifying syntax of email: ishika@consultbae.com
+ [ping-email - INFO]:  Verifying disposable domain of email: ishika@consultbae.com
+ [ping-email - INFO]:  Verifying domain of email: ishika@consultbae.com
+ [ping-email - INFO]:  Pinging email: geethika@paperplane.ne
+ [ping-email - INFO]:  Verifying syntax of email: geethika@paperplane.ne
+ [ping-email - INFO]:  Verifying disposable domain of email: geethika@paperplane.ne
+ [ping-email - INFO]:  Verifying domain of email: geethika@paperplane.ne
+ [ping-email - INFO]:  Pinging email: hr@quazma.com
+ [ping-email - INFO]:  Verifying syntax of email: hr@quazma.com
+ [ping-email - INFO]:  Verifying disposable domain of email: hr@quazma.com
+ [ping-email - INFO]:  Verifying domain of email: hr@quazma.com
+ [ping-email - INFO]:  Pinging email: recruitment@bankitruck.com
+ [ping-email - INFO]:  Verifying syntax of email: recruitment@bankitruck.com
+ [ping-email - INFO]:  Verifying disposable domain of email: recruitment@bankitruck.com
+ [ping-email - INFO]:  Verifying domain of email: recruitment@bankitruck.com
+ [ping-email - INFO]:  Pinging email: venkatesh.kalisetty@quanteon.in
+ [ping-email - INFO]:  Verifying syntax of email: venkatesh.kalisetty@quanteon.in
+ [ping-email - INFO]:  Verifying disposable domain of email: venkatesh.kalisetty@quanteon.in
+ [ping-email - INFO]:  Verifying domain of email: venkatesh.kalisetty@quanteon.in
+ [ping-email - INFO]:  Pinging email: Arpitha H M <arpitha.hm@sheshi.ai>
+ [ping-email - INFO]:  Verifying syntax of email: Arpitha H M <arpitha.hm@sheshi.ai>
+ [ping-email - INFO]:  Pinging email: saurabh.g@sheshi.ai
+ [ping-email - INFO]:  Verifying syntax of email: saurabh.g@sheshi.ai
+ [ping-email - INFO]:  Verifying disposable domain of email: saurabh.g@sheshi.ai
+ [ping-email - INFO]:  Verifying domain of email: saurabh.g@sheshi.ai
+ [ping-email - INFO]:  Pinging email: ganesh@sheshi.ai
+ [ping-email - INFO]:  Verifying syntax of email: ganesh@sheshi.ai
+ [ping-email - INFO]:  Verifying disposable domain of email: ganesh@sheshi.ai
+ [ping-email - INFO]:  Verifying domain of email: ganesh@sheshi.ai
+ [ping-email - INFO]:  Pinging email: ruchita@paperplane.net
+ [ping-email - INFO]:  Verifying syntax of email: ruchita@paperplane.net
+ [ping-email - INFO]:  Verifying disposable domain of email: ruchita@paperplane.net
+ [ping-email - INFO]:  Verifying domain of email: ruchita@paperplane.net
+ [ping-email - INFO]:  Pinging email: hr@mxicoders.com
+ [ping-email - INFO]:  Verifying syntax of email: hr@mxicoders.com
+ [ping-email - INFO]:  Verifying disposable domain of email: hr@mxicoders.com
+ [ping-email - INFO]:  Verifying domain of email: hr@mxicoders.com
+ [ping-email - INFO]:  Pinging email: ankur.mittal@nirafinance.com
+ [ping-email - INFO]:  Verifying syntax of email: ankur.mittal@nirafinance.com
+ [ping-email - INFO]:  Verifying disposable domain of email: ankur.mittal@nirafinance.com
+ [ping-email - INFO]:  Verifying domain of email: ankur.mittal@nirafinance.com
+ [ping-email - INFO]:  Pinging email: i@esmagico.in
+ [ping-email - INFO]:  Verifying syntax of email: i@esmagico.in
+ [ping-email - INFO]:  Verifying disposable domain of email: i@esmagico.in
+ [ping-email - INFO]:  Verifying domain of email: i@esmagico.in
+ [ping-email - INFO]:  Pinging email: Shreyas@esmagico.in
+ [ping-email - INFO]:  Verifying syntax of email: Shreyas@esmagico.in
+ [ping-email - INFO]:  Verifying disposable domain of email: Shreyas@esmagico.in
+ [ping-email - INFO]:  Verifying domain of email: Shreyas@esmagico.in
+ [ping-email - INFO]:  Pinging email: info@ipsator.com
+ [ping-email - INFO]:  Verifying syntax of email: info@ipsator.com
+ [ping-email - INFO]:  Verifying disposable domain of email: info@ipsator.com
+ [ping-email - INFO]:  Verifying domain of email: info@ipsator.com
+ [ping-email - INFO]:  Pinging email: yash@exmyb.com
+ [ping-email - INFO]:  Verifying syntax of email: yash@exmyb.com
+ [ping-email - INFO]:  Verifying disposable domain of email: yash@exmyb.com
+ [ping-email - INFO]:  Verifying domain of email: yash@exmyb.com
+ [ping-email - INFO]:  Pinging email: uday@exmyb.com
+ [ping-email - INFO]:  Verifying syntax of email: uday@exmyb.com
+ [ping-email - INFO]:  Verifying disposable domain of email: uday@exmyb.com
+ [ping-email - INFO]:  Verifying domain of email: uday@exmyb.com
+ [ping-email - INFO]:  Pinging email: shreya.trivedi@kratikal.com
+ [ping-email - INFO]:  Verifying syntax of email: shreya.trivedi@kratikal.com
+ [ping-email - INFO]:  Verifying disposable domain of email: shreya.trivedi@kratikal.com
+ [ping-email - INFO]:  Verifying domain of email: shreya.trivedi@kratikal.com
+ [ping-email - INFO]:  Pinging email: careers@opoyi.com
+ [ping-email - INFO]:  Verifying syntax of email: careers@opoyi.com
+ [ping-email - INFO]:  Verifying disposable domain of email: careers@opoyi.com
+ [ping-email - INFO]:  Verifying domain of email: careers@opoyi.com
+ [ping-email - INFO]:  Pinging email: lakshmi@vakilsearch.com
+ [ping-email - INFO]:  Verifying syntax of email: lakshmi@vakilsearch.com
+ [ping-email - INFO]:  Verifying disposable domain of email: lakshmi@vakilsearch.com
+ [ping-email - INFO]:  Verifying domain of email: lakshmi@vakilsearch.com
+ [ping-email - INFO]:  Pinging email: rahul.patil@workrig.com
+ [ping-email - INFO]:  Verifying syntax of email: rahul.patil@workrig.com
+ [ping-email - INFO]:  Verifying disposable domain of email: rahul.patil@workrig.com
+ [ping-email - INFO]:  Verifying domain of email: rahul.patil@workrig.com
+ [ping-email - INFO]:  Pinging email: manisha.joshi@workrig.com
+ [ping-email - INFO]:  Verifying syntax of email: manisha.joshi@workrig.com
+ [ping-email - INFO]:  Verifying disposable domain of email: manisha.joshi@workrig.com
+ [ping-email - INFO]:  Verifying domain of email: manisha.joshi@workrig.com
+Start
+Verification failed: Invalid email syntax
+ [ping-email - INFO]:  Verifying SMTP of email: deepika.singh@mai.io
+ [ping-email - INFO]:  Attempt 1 of 3
+ [ping-email - INFO]:  Verifying SMTP of email: ishika@consultbae.com
+ [ping-email - INFO]:  Attempt 1 of 3
+ [ping-email - INFO]:  Verifying SMTP of email: hr@quazma.com
+ [ping-email - INFO]:  Attempt 1 of 3
+ [ping-email - INFO]:  Verifying SMTP of email: recruitment@bankitruck.com
+ [ping-email - INFO]:  Attempt 1 of 3
+ [ping-email - INFO]:  Verifying SMTP of email: venkatesh.kalisetty@quanteon.in
+ [ping-email - INFO]:  Attempt 1 of 3
+ [ping-email - INFO]:  Verifying SMTP of email: saurabh.g@sheshi.ai
+ [ping-email - INFO]:  Attempt 1 of 3
+ [ping-email - INFO]:  Verifying SMTP of email: ganesh@sheshi.ai
+ [ping-email - INFO]:  Attempt 1 of 3
+ [ping-email - INFO]:  Verifying SMTP of email: ruchita@paperplane.net
+ [ping-email - INFO]:  Attempt 1 of 3
+ [ping-email - INFO]:  Verifying SMTP of email: hr@mxicoders.com
+ [ping-email - INFO]:  Attempt 1 of 3
+ [ping-email - INFO]:  Verifying SMTP of email: ankur.mittal@nirafinance.com
+ [ping-email - INFO]:  Attempt 1 of 3
+ [ping-email - INFO]:  Verifying SMTP of email: i@esmagico.in
+ [ping-email - INFO]:  Attempt 1 of 3
+ [ping-email - INFO]:  Verifying SMTP of email: Shreyas@esmagico.in
+ [ping-email - INFO]:  Attempt 1 of 3
+ [ping-email - INFO]:  Verifying SMTP of email: info@ipsator.com
+ [ping-email - INFO]:  Attempt 1 of 3
+ [ping-email - INFO]:  Verifying SMTP of email: yash@exmyb.com
+ [ping-email - INFO]:  Attempt 1 of 3
+ [ping-email - INFO]:  Verifying SMTP of email: uday@exmyb.com
+ [ping-email - INFO]:  Attempt 1 of 3
+ [ping-email - INFO]:  Verifying SMTP of email: shreya.trivedi@kratikal.com
+ [ping-email - INFO]:  Attempt 1 of 3
+ [ping-email - INFO]:  Verifying SMTP of email: careers@opoyi.com
+ [ping-email - INFO]:  Attempt 1 of 3
+ [ping-email - INFO]:  Verifying SMTP of email: lakshmi@vakilsearch.com
+ [ping-email - INFO]:  Attempt 1 of 3
+ [ping-email - INFO]:  Verifying SMTP of email: rahul.patil@workrig.com
+ [ping-email - INFO]:  Attempt 1 of 3
+ [ping-email - INFO]:  Verifying SMTP of email: manisha.joshi@workrig.com
+ [ping-email - INFO]:  Attempt 1 of 3
+Verification failed: Domain verification failed
+ [ping-email - INFO]:  Connection to SMTP server established
+ [ping-email - INFO]:  Connection to SMTP server established
+ [ping-email - INFO]:  Connection to SMTP server established
+ [ping-email - INFO]:  Connection to SMTP server established
+ [ping-email - INFO]:  SMTP Response: 220 mx.google.com ESMTP d9443c01a7336-1fed7f9f197si120506995ad.449 - gsmtp
+
+ [ping-email - INFO]:  SMTP Command: EHLO mail.leacore.com
+
+ [ping-email - INFO]:  SMTP Response: 220 mx.google.com ESMTP d2e1a72fcca58-70ead899156si12233278b3a.232 - gsmtp
+
+ [ping-email - INFO]:  SMTP Command: EHLO mail.leacore.com
+
+ [ping-email - INFO]:  SMTP Response: 220 mx.google.com ESMTP 41be03b00d2f7-7a9f8a3a857si12147547a12.494 - gsmtp
+
+ [ping-email - INFO]:  SMTP Command: EHLO mail.leacore.com
+
+ [ping-email - INFO]:  SMTP Response: 220 mail49.lwspanel.com ESMTP Postfix (Debian/GNU)
+
+ [ping-email - INFO]:  SMTP Command: EHLO mail.leacore.com
+
+ [ping-email - INFO]:  Connection to SMTP server established
+ [ping-email - INFO]:  Connection to SMTP server established
+ [ping-email - INFO]:  SMTP Response: 220 MA1PEPF000072B3.mail.protection.outlook.com Microsoft ESMTP MAIL Service ready at Tue, 30 Jul 2024 08:06:50 +0000 [08DCAF87EBB568EE]
+
+ [ping-email - INFO]:  SMTP Command: EHLO mail.leacore.com
+
+ [ping-email - INFO]:  Connection to SMTP server established
+ [ping-email - INFO]:  Connection to SMTP server established
+ [ping-email - INFO]:  Connection to SMTP server established
+ [ping-email - INFO]:  Connection to SMTP server established
+ [ping-email - INFO]:  Connection to SMTP server established
+ [ping-email - INFO]:  Connection to SMTP server established
+ [ping-email - INFO]:  Connection to SMTP server established
+ [ping-email - INFO]:  Connection to SMTP server established
+ [ping-email - INFO]:  Connection to SMTP server established
+ [ping-email - INFO]:  Connection to SMTP server established
+ [ping-email - INFO]:  Connection to SMTP server established
+ [ping-email - INFO]:  SMTP Response: 250-MA1PEPF000072B3.mail.protection.outlook.com Hello [106.194.128.96]
+250-SIZE 157286400
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-STARTTLS
+250-8BITMIME
+250-BINARYMIME
+250-CHUNKING
+250 SMTPUTF8
+
+ [ping-email - INFO]:  SMTP Command: MAIL FROM:<bisicof528@leacore.com>
+
+ [ping-email - INFO]:  SMTP Response: 250-mail49.lwspanel.com
+250-PIPELINING
+250-SIZE 104857600
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+
+ [ping-email - INFO]:  SMTP Command: MAIL FROM:<bisicof528@leacore.com>
+
+ [ping-email - INFO]:  SMTP Response: 220 MA1PEPF000072B3.mail.protection.outlook.com Microsoft ESMTP MAIL Service ready at Tue, 30 Jul 2024 08:06:50 +0000 [08DCAF87EBB56901]
+
+ [ping-email - INFO]:  SMTP Command: EHLO mail.leacore.com
+
+ [ping-email - INFO]:  SMTP Response: 220 MA1PEPF000072B1.mail.protection.outlook.com Microsoft ESMTP MAIL Service ready at Tue, 30 Jul 2024 08:06:50 +0000 [08DCAFBBB552E506]
+
+ [ping-email - INFO]:  SMTP Command: EHLO mail.leacore.com
+
+ [ping-email - INFO]:  Connection to SMTP server established
+ [ping-email - INFO]:  Connection to SMTP server established
+ [ping-email - INFO]:  SMTP Response: 250-mx.google.com at your service, [2401:4900:5690:70d0:c445:eeeb:e005:8e9a]
+250-SIZE 157286400
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+ [ping-email - INFO]:  SMTP Command: MAIL FROM:<bisicof528@leacore.com>
+
+ [ping-email - INFO]:  SMTP Response: 250-mx.google.com at your service, [2401:4900:5690:70d0:c445:eeeb:e005:8e9a]
+250-SIZE 157286400
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+ [ping-email - INFO]:  SMTP Command: MAIL FROM:<bisicof528@leacore.com>
+
+ [ping-email - INFO]:  SMTP Response: 250-mx.google.com at your service, [2401:4900:5690:70d0:c445:eeeb:e005:8e9a]
+250-SIZE 157286400
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+ [ping-email - INFO]:  SMTP Command: MAIL FROM:<bisicof528@leacore.com>
+
+ [ping-email - INFO]:  SMTP Response: 250 2.1.0 Sender OK
+
+ [ping-email - INFO]:  SMTP Command: RCPT TO:<saurabh.g@sheshi.ai>
+
+ [ping-email - INFO]:  SMTP Response: 250-MA1PEPF000072B3.mail.protection.outlook.com Hello [106.194.128.96]
+250-SIZE 157286400
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-STARTTLS
+250-8BITMIME
+250-BINARYMIME
+250-CHUNKING
+250 SMTPUTF8
+
+ [ping-email - INFO]:  SMTP Command: MAIL FROM:<bisicof528@leacore.com>
+
+ [ping-email - INFO]:  Connection to SMTP server established
+ [ping-email - INFO]:  SMTP Response: 250-MA1PEPF000072B1.mail.protection.outlook.com Hello [106.194.128.96]
+250-SIZE 157286400
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-STARTTLS
+250-8BITMIME
+250-BINARYMIME
+250-CHUNKING
+250 SMTPUTF8
+
+ [ping-email - INFO]:  SMTP Command: MAIL FROM:<bisicof528@leacore.com>
+
+ [ping-email - INFO]:  SMTP Response: 550 5.7.1 Service unavailable, Client host [106.194.128.96] blocked using Spamhaus. To request removal from this list see https://www.spamhaus.org/query/ip/106.194.128.96 AS(1450) [MA1PEPF000072B3.INDPRD01.PROD.OUTLOOK.COM 2024-07-30T08:06:51.234Z 08DCAF87EBB568EE]
+
+ [ping-email - INFO]:  SMTP Command: QUIT
+
+ [ping-email - INFO]:  SMTP Response: 250 2.1.0 Sender OK
+
+ [ping-email - INFO]:  SMTP Command: RCPT TO:<deepika.singh@mai.io>
+
+ [ping-email - INFO]:  SMTP Response: 220 mx.google.com ESMTP d9443c01a7336-1fed7ca811dsi117156655ad.25 - gsmtp
+
+ [ping-email - INFO]:  SMTP Command: EHLO mail.leacore.com
+
+ [ping-email - INFO]:  SMTP Response: 220 mx.google.com ESMTP 41be03b00d2f7-7a9f8a3abe4si12084393a12.596 - gsmtp
+
+ [ping-email - INFO]:  SMTP Command: EHLO mail.leacore.com
+
+ [ping-email - INFO]:  SMTP Response: 221 2.0.0 Service closing transmission channel
+
+ [ping-email - INFO]:  Connection to SMTP server ended
+Verification failed: Invalid email
+ [ping-email - INFO]:  SMTP Response: 220 mx.google.com ESMTP d2e1a72fcca58-70ead89be08si11617730b3a.264 - gsmtp
+
+ [ping-email - INFO]:  SMTP Command: EHLO mail.leacore.com
+
+ [ping-email - INFO]:  SMTP Response: 220 mx.google.com ESMTP d2e1a72fcca58-70ead837a4csi11593846b3a.204 - gsmtp
+
+ [ping-email - INFO]:  SMTP Command: EHLO mail.leacore.com
+
+ [ping-email - INFO]:  SMTP Response: 220 mx.google.com ESMTP d9443c01a7336-1fed7fa135bsi118281285ad.475 - gsmtp
+
+ [ping-email - INFO]:  SMTP Command: EHLO mail.leacore.com
+
+ [ping-email - INFO]:  SMTP Response: 220 mx.google.com ESMTP 41be03b00d2f7-7a9f90fa964si12415128a12.647 - gsmtp
+
+ [ping-email - INFO]:  SMTP Command: EHLO mail.leacore.com
+
+ [ping-email - INFO]:  SMTP Response: 450 4.7.1 Client host rejected: cannot find your reverse hostname, [106.194.128.96]
+
+ [ping-email - INFO]:  SMTP Response: 250 2.1.0 Sender OK
+
+ [ping-email - INFO]:  SMTP Command: RCPT TO:<ganesh@sheshi.ai>
+
+ [ping-email - INFO]:  SMTP Response: 220 mx.google.com ESMTP 41be03b00d2f7-7a9f8945197si12079854a12.464 - gsmtp
+
+ [ping-email - INFO]:  SMTP Command: EHLO mail.leacore.com
+
+ [ping-email - INFO]:  SMTP Response: 220 mx.google.com ESMTP d2e1a72fcca58-70ead913ae5si11847104b3a.382 - gsmtp
+
+ [ping-email - INFO]:  SMTP Command: EHLO mail.leacore.com
+
+ [ping-email - INFO]:  SMTP Response: 554 sxb1plibsmtp01-28.prod.sxb1.secureserver.net CMGW IB106. Connection refused. 106.194.128.96 is listed on the Policy Block List (PBL).  <http://www.spamhaus.org/query/ip/106.194.128.96> Please visit http://www.spamhaus.org/pbl/ for more information.
+
+ [ping-email - INFO]:  Connection to SMTP server ended
+Verification failed: Invalid email
+ [ping-email - INFO]:  SMTP Response: 554 sxb1plibsmtp01-29.prod.sxb1.secureserver.net CMGW IB106. Connection refused. 106.194.128.96 is listed on the Policy Block List (PBL).  <http://www.spamhaus.org/query/ip/106.194.128.96> Please visit http://www.spamhaus.org/pbl/ for more information.
+
+ [ping-email - INFO]:  Connection to SMTP server ended
+Verification failed: Invalid email
+ [ping-email - INFO]:  SMTP Response: 220 mx.google.com ESMTP 98e67ed59e1d1-2cdb73bfbfbsi14585872a91.66 - gsmtp
+
+ [ping-email - INFO]:  SMTP Command: EHLO mail.leacore.com
+
+ [ping-email - INFO]:  SMTP Response: 550 5.7.1 Service unavailable, Client host [106.194.128.96] blocked using Spamhaus. To request removal from this list see https://www.spamhaus.org/query/ip/106.194.128.96 AS(1450) [MA1PEPF000072B3.INDPRD01.PROD.OUTLOOK.COM 2024-07-30T08:06:51.375Z 08DCAF87EBB56901]
+
+ [ping-email - INFO]:  SMTP Command: QUIT
+
+ [ping-email - INFO]:  SMTP Response: 250 2.1.0 OK d9443c01a7336-1fed7f9f197si120506995ad.449 - gsmtp
+
+ [ping-email - INFO]:  SMTP Command: RCPT TO:<hr@quazma.com>
+
+ [ping-email - INFO]:  SMTP Response: 250 2.1.0 OK d2e1a72fcca58-70ead899156si12233278b3a.232 - gsmtp
+
+ [ping-email - INFO]:  SMTP Command: RCPT TO:<venkatesh.kalisetty@quanteon.in>
+
+ [ping-email - INFO]:  SMTP Response: 250 2.1.0 OK 41be03b00d2f7-7a9f8a3a857si12147547a12.494 - gsmtp
+
+ [ping-email - INFO]:  SMTP Command: RCPT TO:<ishika@consultbae.com>
+
+ [ping-email - INFO]:  SMTP Response: 550 5.7.1 Service unavailable, Client host [106.194.128.96] blocked using Spamhaus. To request removal from this list see https://www.spamhaus.org/query/ip/106.194.128.96 AS(1450) [MA1PEPF000072B1.INDPRD01.PROD.OUTLOOK.COM 2024-07-30T08:06:51.440Z 08DCAFBBB552E506]
+
+ [ping-email - INFO]:  SMTP Command: QUIT
+
+ [ping-email - INFO]:  SMTP Response: 221 2.0.0 Service closing transmission channel
+
+ [ping-email - INFO]:  Connection to SMTP server ended
+Verification failed: Invalid email
+ [ping-email - INFO]:  SMTP Response: 220 n72.mail01.mtsvc.net ESMTP Exim 4.94.2 Tue, 30 Jul 2024 04:06:51 -0400
+
+ [ping-email - INFO]:  SMTP Command: EHLO mail.leacore.com
+
+ [ping-email - INFO]:  Connection to SMTP server ended
+Verification failed: Invalid email
+ [ping-email - INFO]:  SMTP Response: 221 2.0.0 Service closing transmission channel
+
+ [ping-email - INFO]:  Connection to SMTP server ended
+Verification failed: Invalid email
+ [ping-email - INFO]:  SMTP Response: 250-mx.google.com at your service, [2401:4900:5690:70d0:c445:eeeb:e005:8e9a]
+250-SIZE 157286400
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+ [ping-email - INFO]:  SMTP Command: MAIL FROM:<bisicof528@leacore.com>
+
+ [ping-email - INFO]:  SMTP Response: 250-mx.google.com at your service, [2401:4900:5690:70d0:c445:eeeb:e005:8e9a]
+250-SIZE 157286400
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+ [ping-email - INFO]:  SMTP Command: MAIL FROM:<bisicof528@leacore.com>
+
+ [ping-email - INFO]:  SMTP Response: 250-mx.google.com at your service, [2401:4900:5690:70d0:c445:eeeb:e005:8e9a]
+250-SIZE 157286400
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+ [ping-email - INFO]:  SMTP Command: MAIL FROM:<bisicof528@leacore.com>
+
+ [ping-email - INFO]:  SMTP Response: 250-mx.google.com at your service, [2401:4900:5690:70d0:c445:eeeb:e005:8e9a]
+250-SIZE 157286400
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+ [ping-email - INFO]:  SMTP Command: MAIL FROM:<bisicof528@leacore.com>
+
+ [ping-email - INFO]:  SMTP Response: 250-mx.google.com at your service, [2401:4900:5690:70d0:c445:eeeb:e005:8e9a]
+250-SIZE 157286400
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+ [ping-email - INFO]:  SMTP Command: MAIL FROM:<bisicof528@leacore.com>
+
+ [ping-email - INFO]:  SMTP Response: 250-mx.google.com at your service, [2401:4900:5690:70d0:c445:eeeb:e005:8e9a]
+250-SIZE 157286400
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+ [ping-email - INFO]:  SMTP Command: MAIL FROM:<bisicof528@leacore.com>
+
+ [ping-email - INFO]:  SMTP Response: 250-mx.google.com at your service, [2401:4900:5690:70d0:c445:eeeb:e005:8e9a]
+250-SIZE 157286400
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+ [ping-email - INFO]:  SMTP Command: MAIL FROM:<bisicof528@leacore.com>
+
+ [ping-email - INFO]:  SMTP Response: 250-mx.google.com at your service, [2401:4900:5690:70d0:c445:eeeb:e005:8e9a]
+250-SIZE 157286400
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+ [ping-email - INFO]:  SMTP Command: MAIL FROM:<bisicof528@leacore.com>
+
+ [ping-email - INFO]:  SMTP Response: 250-mx.google.com at your service, [2401:4900:5690:70d0:c445:eeeb:e005:8e9a]
+250-SIZE 157286400
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+ [ping-email - INFO]:  SMTP Command: MAIL FROM:<bisicof528@leacore.com>
+
+ [ping-email - INFO]:  SMTP Response: 550-5.1.1 The email account that you tried to reach does not exist. Please try
+550-5.1.1 double-checking the recipient's email address for typos or
+550-5.1.1 unnecessary spaces. For more information, go to
+550 5.1.1  https://support.google.com/mail/?p=NoSuchUser 41be03b00d2f7-7a9f8a3a857si12147547a12.494 - gsmtp
+
+ [ping-email - INFO]:  SMTP Command: QUIT
+
+ [ping-email - INFO]:  SMTP Response: 250 2.1.5 OK d9443c01a7336-1fed7f9f197si120506995ad.449 - gsmtp
+
+ [ping-email - INFO]:  SMTP Command: QUIT
+
+ [ping-email - INFO]:  SMTP Response: 250 2.1.5 OK d2e1a72fcca58-70ead899156si12233278b3a.232 - gsmtp
+
+ [ping-email - INFO]:  SMTP Command: QUIT
+
+ [ping-email - INFO]:  SMTP Response: 250-n72.mail01.mtsvc.net Hello mail.leacore.com [106.194.128.96]
+250-SIZE 26214400
+250-8BITMIME
+250-PIPELINING
+250-PIPE_CONNECT
+250-AUTH LOGIN PLAIN
+250-CHUNKING
+250-STARTTLS
+250 HELP
+
+ [ping-email - INFO]:  SMTP Command: MAIL FROM:<bisicof528@leacore.com>
+
+ [ping-email - INFO]:  SMTP Response: 250 2.1.0 OK d2e1a72fcca58-70ead837a4csi11593846b3a.204 - gsmtp
+
+ [ping-email - INFO]:  SMTP Command: RCPT TO:<careers@opoyi.com>
+
+ [ping-email - INFO]:  SMTP Response: 250 2.1.0 OK d9443c01a7336-1fed7ca811dsi117156655ad.25 - gsmtp
+
+ [ping-email - INFO]:  SMTP Command: RCPT TO:<uday@exmyb.com>
+
+ [ping-email - INFO]:  SMTP Response: 250 2.1.0 OK 41be03b00d2f7-7a9f8a3abe4si12084393a12.596 - gsmtp
+
+ [ping-email - INFO]:  SMTP Command: RCPT TO:<ankur.mittal@nirafinance.com>
+
+ [ping-email - INFO]:  SMTP Response: 250 2.1.0 OK d9443c01a7336-1fed7fa135bsi118281285ad.475 - gsmtp
+
+ [ping-email - INFO]:  SMTP Command: RCPT TO:<lakshmi@vakilsearch.com>
+
+ [ping-email - INFO]:  SMTP Response: 250 2.1.0 OK d2e1a72fcca58-70ead89be08si11617730b3a.264 - gsmtp
+
+ [ping-email - INFO]:  SMTP Command: RCPT TO:<hr@mxicoders.com>
+
+ [ping-email - INFO]:  SMTP Response: 250 2.1.0 OK 41be03b00d2f7-7a9f90fa964si12415128a12.647 - gsmtp
+
+ [ping-email - INFO]:  SMTP Command: RCPT TO:<yash@exmyb.com>
+
+ [ping-email - INFO]:  SMTP Response: 250 2.1.0 OK 41be03b00d2f7-7a9f8945197si12079854a12.464 - gsmtp
+
+ [ping-email - INFO]:  SMTP Command: RCPT TO:<shreya.trivedi@kratikal.com>
+
+ [ping-email - INFO]:  SMTP Response: 250 2.1.0 OK d2e1a72fcca58-70ead913ae5si11847104b3a.382 - gsmtp
+
+ [ping-email - INFO]:  SMTP Command: RCPT TO:<Shreyas@esmagico.in>
+
+ [ping-email - INFO]:  SMTP Response: 250 2.1.0 OK 98e67ed59e1d1-2cdb73bfbfbsi14585872a91.66 - gsmtp
+
+ [ping-email - INFO]:  SMTP Command: RCPT TO:<info@ipsator.com>
+
+ [ping-email - INFO]:  SMTP Response: 221 2.0.0 closing connection 41be03b00d2f7-7a9f8a3a857si12147547a12.494 - gsmtp
+
+ [ping-email - INFO]:  Connection to SMTP server ended
+Verification failed: Invalid email
+ [ping-email - INFO]:  SMTP Response: 221 2.0.0 closing connection d9443c01a7336-1fed7f9f197si120506995ad.449 - gsmtp
+
+ [ping-email - INFO]:  Connection to SMTP server ended
+Email is valid: hr@quazma.com
+ [ping-email - INFO]:  SMTP Response: 221 2.0.0 closing connection d2e1a72fcca58-70ead899156si12233278b3a.232 - gsmtp
+
+ [ping-email - INFO]:  Connection to SMTP server ended
+Email is valid: venkatesh.kalisetty@quanteon.in
+ [ping-email - INFO]:  SMTP Response: 250 OK
+
+ [ping-email - INFO]:  SMTP Command: RCPT TO:<ruchita@paperplane.net>
+
+ [ping-email - INFO]:  SMTP Response: 220 mx.google.com ESMTP 98e67ed59e1d1-2cfca1ddb6csi729479a91.0 - gsmtp
+
+ [ping-email - INFO]:  SMTP Command: EHLO mail.leacore.com
+
+ [ping-email - INFO]:  SMTP Response: 550-5.1.1 The email account that you tried to reach does not exist. Please try
+550-5.1.1 double-checking the recipient's email address for typos or
+550-5.1.1 unnecessary spaces. For more information, go to
+550 5.1.1  https://support.google.com/mail/?p=NoSuchUser 41be03b00d2f7-7a9f8a3abe4si12084393a12.596 - gsmtp
+
+ [ping-email - INFO]:  SMTP Command: QUIT
+
+ [ping-email - INFO]:  SMTP Response: 250 2.1.5 OK d9443c01a7336-1fed7ca811dsi117156655ad.25 - gsmtp
+
+ [ping-email - INFO]:  SMTP Command: QUIT
+
+ [ping-email - INFO]:  SMTP Response: 250 2.1.5 OK d2e1a72fcca58-70ead837a4csi11593846b3a.204 - gsmtp
+
+ [ping-email - INFO]:  SMTP Command: QUIT
+
+ [ping-email - INFO]:  SMTP Response: 250 2.1.5 OK d9443c01a7336-1fed7fa135bsi118281285ad.475 - gsmtp
+
+ [ping-email - INFO]:  SMTP Command: QUIT
+
+ [ping-email - INFO]:  SMTP Response: 550-5.1.1 The email account that you tried to reach does not exist. Please try
+550-5.1.1 double-checking the recipient's email address for typos or
+550-5.1.1 unnecessary spaces. For more information, go to
+550 5.1.1  https://support.google.com/mail/?p=NoSuchUser 41be03b00d2f7-7a9f8945197si12079854a12.464 - gsmtp
+
+ [ping-email - INFO]:  SMTP Command: QUIT
+
+ [ping-email - INFO]:  SMTP Response: 250 2.1.5 OK 98e67ed59e1d1-2cdb73bfbfbsi14585872a91.66 - gsmtp
+
+ [ping-email - INFO]:  SMTP Command: QUIT
+
+ [ping-email - INFO]:  SMTP Response: 250 2.1.5 OK d2e1a72fcca58-70ead913ae5si11847104b3a.382 - gsmtp
+
+ [ping-email - INFO]:  SMTP Command: QUIT
+
+ [ping-email - INFO]:  SMTP Response: 250 2.1.5 OK d2e1a72fcca58-70ead89be08si11617730b3a.264 - gsmtp
+
+ [ping-email - INFO]:  SMTP Command: QUIT
+
+ [ping-email - INFO]:  SMTP Response: 250 2.1.5 OK 41be03b00d2f7-7a9f90fa964si12415128a12.647 - gsmtp
+
+ [ping-email - INFO]:  SMTP Command: QUIT
+
+ [ping-email - INFO]:  SMTP Response: 550-X-Warning: 106.194.128.96 is listed at zen.dnsbl (127.0.0.11:
+550 Listed by PBL, see https://check.spamhaus.org/query/ip/106.194.128.96)
+
+ [ping-email - INFO]:  SMTP Command: QUIT
+
+ [ping-email - INFO]:  SMTP Response: 221 2.0.0 closing connection d2e1a72fcca58-70ead837a4csi11593846b3a.204 - gsmtp
+
+ [ping-email - INFO]:  Connection to SMTP server ended
+Email is valid: careers@opoyi.com
+ [ping-email - INFO]:  SMTP Response: 221 2.0.0 closing connection d9443c01a7336-1fed7ca811dsi117156655ad.25 - gsmtp
+
+ [ping-email - INFO]:  Connection to SMTP server ended
+Email is valid: uday@exmyb.com
+ [ping-email - INFO]:  SMTP Response: 221 2.0.0 closing connection 41be03b00d2f7-7a9f8a3abe4si12084393a12.596 - gsmtp
+
+ [ping-email - INFO]:  Connection to SMTP server ended
+Verification failed: Invalid email
+ [ping-email - INFO]:  SMTP Response: 250-mx.google.com at your service, [2401:4900:5690:70d0:c445:eeeb:e005:8e9a]
+250-SIZE 157286400
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+ [ping-email - INFO]:  SMTP Command: MAIL FROM:<bisicof528@leacore.com>
+
+ [ping-email - INFO]:  SMTP Response: 221 2.0.0 closing connection d9443c01a7336-1fed7fa135bsi118281285ad.475 - gsmtp
+
+ [ping-email - INFO]:  Connection to SMTP server ended
+Email is valid: lakshmi@vakilsearch.com
+ [ping-email - INFO]:  SMTP Response: 221 2.0.0 closing connection 41be03b00d2f7-7a9f8945197si12079854a12.464 - gsmtp
+
+ [ping-email - INFO]:  Connection to SMTP server ended
+Verification failed: Invalid email
+ [ping-email - INFO]:  SMTP Response: 221 2.0.0 closing connection 98e67ed59e1d1-2cdb73bfbfbsi14585872a91.66 - gsmtp
+
+ [ping-email - INFO]:  Connection to SMTP server ended
+Email is valid: info@ipsator.com
+ [ping-email - INFO]:  SMTP Response: 221 2.0.0 closing connection d2e1a72fcca58-70ead89be08si11617730b3a.264 - gsmtp
+
+ [ping-email - INFO]:  Connection to SMTP server ended
+Email is valid: hr@mxicoders.com
+ [ping-email - INFO]:  SMTP Response: 221 2.0.0 closing connection d2e1a72fcca58-70ead913ae5si11847104b3a.382 - gsmtp
+
+ [ping-email - INFO]:  Connection to SMTP server ended
+Email is valid: Shreyas@esmagico.in
+ [ping-email - INFO]:  SMTP Response: 221 2.0.0 closing connection 41be03b00d2f7-7a9f90fa964si12415128a12.647 - gsmtp
+
+ [ping-email - INFO]:  Connection to SMTP server ended
+Email is valid: yash@exmyb.com
+ [ping-email - INFO]:  SMTP Response: 250 2.1.0 OK 98e67ed59e1d1-2cfca1ddb6csi729479a91.0 - gsmtp
+
+ [ping-email - INFO]:  SMTP Command: RCPT TO:<i@esmagico.in>
+
+ [ping-email - INFO]:  SMTP Response: 221 n72.mail01.mtsvc.net closing connection
+
+ [ping-email - INFO]:  Connection to SMTP server ended
+Verification failed: Invalid email
+ [ping-email - INFO]:  SMTP Response: 250 2.1.5 OK 98e67ed59e1d1-2cfca1ddb6csi729479a91.0 - gsmtp
+
+ [ping-email - INFO]:  SMTP Command: QUIT
+
+ [ping-email - INFO]:  SMTP Response: 221 2.0.0 closing connection 98e67ed59e1d1-2cfca1ddb6csi729479a91.0 - gsmtp
+
+ [ping-email - INFO]:  Connection to SMTP server ended
+Email is valid: i@esmagico.in
+[
+  {
+    email: 'deepika.singh@mai.io',
+    valid: false,
+    message: 'Invalid email'
+  },
+  {
+    email: 'ishika@consultbae.com',
+    valid: false,
+    message: 'Invalid email'
+  },
+  {
+    email: 'geethika@paperplane.ne',
+    valid: false,
+    message: 'Domain verification failed'
+  },
+  { email: 'hr@quazma.com', valid: true, message: 'Valid email' },
+  {
+    email: 'recruitment@bankitruck.com',
+    valid: false,
+    message: 'Invalid email'
+  },
+  {
+    email: 'venkatesh.kalisetty@quanteon.in',
+    valid: true,
+    message: 'Valid email'
+  },
+  {
+    email: 'Arpitha H M <arpitha.hm@sheshi.ai>',
+    valid: false,
+    message: 'Invalid email syntax'
+  },
+  {
+    email: 'saurabh.g@sheshi.ai',
+    valid: false,
+    message: 'Invalid email'
+  },
+  { email: 'ganesh@sheshi.ai', valid: false, message: 'Invalid email' },
+  {
+    email: 'ruchita@paperplane.net',
+    valid: false,
+    message: 'Invalid email'
+  },
+  { email: 'hr@mxicoders.com', valid: true, message: 'Valid email' },
+  {
+    email: 'ankur.mittal@nirafinance.com',
+    valid: false,
+    message: 'Invalid email'
+  },
+  { email: 'i@esmagico.in', valid: true, message: 'Valid email' },
+  { email: 'Shreyas@esmagico.in', valid: true, message: 'Valid email' },
+  { email: 'info@ipsator.com', valid: true, message: 'Valid email' },
+  { email: 'yash@exmyb.com', valid: true, message: 'Valid email' },
+  { email: 'uday@exmyb.com', valid: true, message: 'Valid email' },
+  {
+    email: 'shreya.trivedi@kratikal.com',
+    valid: false,
+    message: 'Invalid email'
+  },
+  { email: 'careers@opoyi.com', valid: true, message: 'Valid email' },
+  {
+    email: 'lakshmi@vakilsearch.com',
+    valid: true,
+    message: 'Valid email'
+  },
+  {
+    email: 'rahul.patil@workrig.com',
+    valid: false,
+    message: 'Invalid email'
+  },
+  {
+    email: 'manisha.joshi@workrig.com',
+    valid: false,
+    message: 'Invalid email'
+  }
+]
+[
+  'hr@quazma.com',
+  'venkatesh.kalisetty@quanteon.in',
+  'hr@mxicoders.com',
+  'i@esmagico.in',
+  'Shreyas@esmagico.in',
+  'info@ipsator.com',
+  'yash@exmyb.com',
+  'uday@exmyb.com',
+  'careers@opoyi.com',
+  'lakshmi@vakilsearch.com'
+] [
+  'deepika.singh@mai.io',
+  'ishika@consultbae.com',
+  'geethika@paperplane.ne',
+  'recruitment@bankitruck.com',
+  'Arpitha H M <arpitha.hm@sheshi.ai>',
+  'saurabh.g@sheshi.ai',
+  'ganesh@sheshi.ai',
+  'ruchita@paperplane.net',
+  'ankur.mittal@nirafinance.com',
+  'shreya.trivedi@kratikal.com',
+  'rahul.patil@workrig.com',
+  'manisha.joshi@workrig.com'
+]

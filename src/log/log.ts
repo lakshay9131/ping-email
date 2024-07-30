@@ -2,7 +2,7 @@ class Log {
   private debug: boolean;
 
   constructor(debug: boolean = false) {
-    this.debug = debug;
+    this.debug = true;
   }
 
   info(message: string): void {

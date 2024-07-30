@@ -1,0 +1,205 @@
+[ping-email - INFO]:  Pinging email: deepika.singh@mai.io
+ [ping-email - INFO]:  Verifying syntax of email: deepika.singh@mai.io
+ [ping-email - INFO]:  Verifying disposable domain of email: deepika.singh@mai.io
+ [ping-email - INFO]:  Verifying domain of email: deepika.singh@mai.io
+ [ping-email - INFO]:  Pinging email: deepika.singh@mai.io
+ [ping-email - INFO]:  Verifying syntax of email: deepika.singh@mai.io
+ [ping-email - INFO]:  Verifying disposable domain of email: deepika.singh@mai.io
+ [ping-email - INFO]:  Verifying domain of email: deepika.singh@mai.io
+ [ping-email - INFO]:  Pinging email: ishika@consultbae.com
+ [ping-email - INFO]:  Verifying syntax of email: ishika@consultbae.com
+ [ping-email - INFO]:  Verifying disposable domain of email: ishika@consultbae.com
+ [ping-email - INFO]:  Verifying domain of email: ishika@consultbae.com
+ [ping-email - INFO]:  Pinging email: geethika@paperplane.net
+ [ping-email - INFO]:  Verifying syntax of email: geethika@paperplane.net
+ [ping-email - INFO]:  Verifying disposable domain of email: geethika@paperplane.net
+ [ping-email - INFO]:  Verifying domain of email: geethika@paperplane.net
+ [ping-email - INFO]:  Pinging email: recruitment@bankitruck.com
+ [ping-email - INFO]:  Verifying syntax of email: recruitment@bankitruck.com
+ [ping-email - INFO]:  Verifying disposable domain of email: recruitment@bankitruck.com
+ [ping-email - INFO]:  Verifying domain of email: recruitment@bankitruck.com
+Start
+ [ping-email - INFO]:  Verifying SMTP of email: deepika.singh@mai.io
+ [ping-email - INFO]:  Attempt 1 of 3
+ [ping-email - INFO]:  Verifying SMTP of email: deepika.singh@mai.io
+ [ping-email - INFO]:  Attempt 1 of 3
+ [ping-email - INFO]:  Verifying SMTP of email: ishika@consultbae.com
+ [ping-email - INFO]:  Attempt 1 of 3
+ [ping-email - INFO]:  Verifying SMTP of email: recruitment@bankitruck.com
+ [ping-email - INFO]:  Attempt 1 of 3
+ [ping-email - INFO]:  Verifying SMTP of email: geethika@paperplane.net
+ [ping-email - INFO]:  Attempt 1 of 3
+ [ping-email - INFO]:  Connection to SMTP server established
+ [ping-email - INFO]:  Connection to SMTP server established
+ [ping-email - INFO]:  SMTP Response: 220 PN1PEPF000062BB.mail.protection.outlook.com Microsoft ESMTP MAIL Service ready at Tue, 30 Jul 2024 08:12:09 +0000 [08DCAF9DD07207C7]
+
+ [ping-email - INFO]:  SMTP Command: EHLO mail.leacore.com
+
+ [ping-email - INFO]:  Connection to SMTP server established
+ [ping-email - INFO]:  SMTP Response: 220 PN1PEPF000062BB.mail.protection.outlook.com Microsoft ESMTP MAIL Service ready at Tue, 30 Jul 2024 08:12:09 +0000 [08DCAF9DD07207D3]
+
+ [ping-email - INFO]:  SMTP Command: EHLO mail.leacore.com
+
+ [ping-email - INFO]:  SMTP Response: 250-PN1PEPF000062BB.mail.protection.outlook.com Hello [106.194.128.96]
+250-SIZE 157286400
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-STARTTLS
+250-8BITMIME
+250-BINARYMIME
+250-CHUNKING
+250 SMTPUTF8
+
+ [ping-email - INFO]:  SMTP Command: MAIL FROM:<bisicof528@leacore.com>
+
+ [ping-email - INFO]:  Connection to SMTP server established
+ [ping-email - INFO]:  SMTP Response: 250-PN1PEPF000062BB.mail.protection.outlook.com Hello [106.194.128.96]
+250-SIZE 157286400
+250-PIPELINING
+250-DSN
+250-ENHANCEDSTATUSCODES
+250-STARTTLS
+250-8BITMIME
+250-BINARYMIME
+250-CHUNKING
+250 SMTPUTF8
+
+ [ping-email - INFO]:  SMTP Command: MAIL FROM:<bisicof528@leacore.com>
+
+ [ping-email - INFO]:  SMTP Response: 250 2.1.0 Sender OK
+
+ [ping-email - INFO]:  SMTP Command: RCPT TO:<deepika.singh@mai.io>
+
+ [ping-email - INFO]:  SMTP Response: 250 2.1.0 Sender OK
+
+ [ping-email - INFO]:  SMTP Command: RCPT TO:<deepika.singh@mai.io>
+
+ [ping-email - INFO]:  SMTP Response: 550 5.7.1 Service unavailable, Client host [106.194.128.96] blocked using Spamhaus. To request removal from this list see https://www.spamhaus.org/query/ip/106.194.128.96 AS(1450) [PN1PEPF000062BB.INDPRD01.PROD.OUTLOOK.COM 2024-07-30T08:12:09.665Z 08DCAF9DD07207C7]
+
+ [ping-email - INFO]:  SMTP Command: QUIT
+
+ [ping-email - INFO]:  SMTP Response: 221 2.0.0 Service closing transmission channel
+
+ [ping-email - INFO]:  Connection to SMTP server ended
+ [ping-email - INFO]:  SMTP Response: 550 5.7.1 Service unavailable, Client host [106.194.128.96] blocked using Spamhaus. To request removal from this list see https://www.spamhaus.org/query/ip/106.194.128.96 AS(1450) [PN1PEPF000062BB.INDPRD01.PROD.OUTLOOK.COM 2024-07-30T08:12:09.727Z 08DCAF9DD07207D3]
+
+ [ping-email - INFO]:  SMTP Command: QUIT
+
+ [ping-email - INFO]:  SMTP Response: 220 mail49.lwspanel.com ESMTP Postfix (Debian/GNU)
+
+ [ping-email - INFO]:  SMTP Command: EHLO mail.leacore.com
+
+ [ping-email - INFO]:  SMTP Response: 220 mx.google.com ESMTP 41be03b00d2f7-7a9f8461ce1si12002374a12.332 - gsmtp
+
+ [ping-email - INFO]:  SMTP Command: EHLO mail.leacore.com
+
+ [ping-email - INFO]:  Connection to SMTP server established
+ [ping-email - INFO]:  SMTP Response: 221 2.0.0 Service closing transmission channel
+
+ [ping-email - INFO]:  Connection to SMTP server ended
+ [ping-email - INFO]:  SMTP Response: 250-mail49.lwspanel.com
+250-PIPELINING
+250-SIZE 104857600
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+
+ [ping-email - INFO]:  SMTP Command: MAIL FROM:<bisicof528@leacore.com>
+
+ [ping-email - INFO]:  SMTP Response: 220 n72.mail01.mtsvc.net ESMTP Exim 4.94.2 Tue, 30 Jul 2024 04:12:10 -0400
+
+ [ping-email - INFO]:  SMTP Command: EHLO mail.leacore.com
+
+ [ping-email - INFO]:  SMTP Response: 250-mx.google.com at your service, [2401:4900:5690:70d0:c445:eeeb:e005:8e9a]
+250-SIZE 157286400
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+ [ping-email - INFO]:  SMTP Command: MAIL FROM:<bisicof528@leacore.com>
+
+ [ping-email - INFO]:  SMTP Response: 450 4.7.1 Client host rejected: cannot find your reverse hostname, [106.194.128.96]
+
+ [ping-email - INFO]:  Connection to SMTP server ended
+ [ping-email - INFO]:  SMTP Response: 250 2.1.0 OK 41be03b00d2f7-7a9f8461ce1si12002374a12.332 - gsmtp
+
+ [ping-email - INFO]:  SMTP Command: RCPT TO:<ishika@consultbae.com>
+
+ [ping-email - INFO]:  SMTP Response: 250-n72.mail01.mtsvc.net Hello mail.leacore.com [106.194.128.96]
+250-SIZE 26214400
+250-8BITMIME
+250-PIPELINING
+250-PIPE_CONNECT
+250-AUTH LOGIN PLAIN
+250-CHUNKING
+250-STARTTLS
+250 HELP
+
+ [ping-email - INFO]:  SMTP Command: MAIL FROM:<bisicof528@leacore.com>
+
+ [ping-email - INFO]:  SMTP Response: 250 OK
+
+ [ping-email - INFO]:  SMTP Command: RCPT TO:<geethika@paperplane.net>
+
+ [ping-email - INFO]:  SMTP Response: 550-5.1.1 The email account that you tried to reach does not exist. Please try
+550-5.1.1 double-checking the recipient's email address for typos or
+550-5.1.1 unnecessary spaces. For more information, go to
+550 5.1.1  https://support.google.com/mail/?p=NoSuchUser 41be03b00d2f7-7a9f8461ce1si12002374a12.332 - gsmtp
+
+ [ping-email - INFO]:  SMTP Command: QUIT
+
+ [ping-email - INFO]:  SMTP Response: 550-X-Warning: 106.194.128.96 is listed at zen.dnsbl (127.0.0.11:
+550 Listed by PBL, see https://check.spamhaus.org/query/ip/106.194.128.96)
+
+ [ping-email - INFO]:  SMTP Command: QUIT
+
+ [ping-email - INFO]:  SMTP Response: 221 2.0.0 closing connection 41be03b00d2f7-7a9f8461ce1si12002374a12.332 - gsmtp
+
+ [ping-email - INFO]:  Connection to SMTP server ended
+ [ping-email - INFO]:  SMTP Response: 221 n72.mail01.mtsvc.net closing connection
+
+ [ping-email - INFO]:  Connection to SMTP server ended
+[
+  {
+    email: 'deepika.singh@mai.io',
+    valid: false,
+    message: 'Invalid email'
+  },
+  {
+    email: 'deepika.singh@mai.io',
+    valid: false,
+    message: 'Invalid email'
+  },
+  {
+    email: 'ishika@consultbae.com',
+    valid: false,
+    message: 'Invalid email'
+  },
+  {
+    email: 'geethika@paperplane.net',
+    valid: false,
+    message: 'Invalid email'
+  },
+  {
+    email: 'recruitment@bankitruck.com',
+    valid: false,
+    message: 'Invalid email'
+  }
+]
+[] [
+  'deepika.singh@mai.io',
+  'deepika.singh@mai.io',
+  'ishika@consultbae.com',
+  'geethika@paperplane.net',
+  'recruitment@bankitruck.com'
+]

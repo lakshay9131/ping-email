@@ -1,0 +1,13 @@
+ [ping-email - INFO]:  SMTP Response: 550 5.7.1 Service unavailable, Client host [106.194.128.96] blocked using Spamhaus. To request removal from this list see https://www.spamhaus.org/query/ip/106.194.128.96 AS(1450) [PN1PEPF000062BB.INDPRD01.PROD.OUTLOOK.COM 2024-07-30T08:12:09.665Z 08DCAF9DD07207C7]
+
+
+ [ping-email - INFO]:  SMTP Response: 450 4.7.1 Client host rejected: cannot find your reverse hostname, [106.194.128.96]
+
+ [ping-email - INFO]:  SMTP Response: 550-5.1.1 The email account that you tried to reach does not exist. Please try
+
+  [ping-email - INFO]:  SMTP Response: 550-X-Warning: 106.194.128.96 is listed at zen.dnsbl (127.0.0.11:
+550 Listed by PBL, see https://check.spamhaus.org/query/ip/106.194.128.96)
+
+
+
+
